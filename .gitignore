@@ -1,0 +1,15 @@
+/config/config.env
+/node_modules
+
+    // setLoading(true);
+    // fetch("/api/register", {
+    //   method: "POST",
+    //   headers: {
+    //     "Content-Type": "application/json",
+    //   },
+    //   body: JSON.stringify(dataForm),
+    // })
+    //   .then((response) => response.json())
+    //   .then(dataForm);
+    // setLoading(false);
+    // alert(`Hey ${dataForm.name} your data has been sent to the Orginazation`);
